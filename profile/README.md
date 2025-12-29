@@ -29,7 +29,7 @@
 | terraform-v2 | IaC 병합 및 구조 정리 결과 |
 | backend | API 서버 (Redis, SQS Producer) |
 | worker | SQS Consumer / 비동기 DB Write |
-| loadtest | k6 부하 테스트 스크립트 |
+| loadtest | k6 부하 테스트 스크립트 및 결과 raw text |
 
 ---
 
